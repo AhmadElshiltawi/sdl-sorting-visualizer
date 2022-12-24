@@ -25,5 +25,5 @@ The project was created using IntelliJ's Clion which uses CMake. Preferably down
 
 Downloading [SDL2](https://www.libsdl.org) is required.
 
-# Showcase
+# Showcase (Merge Sort)
 ![](https://github.com/AhmadElshiltawi/sdl-sorting-visualizer/blob/main/Documents/showcase.gif)
