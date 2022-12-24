@@ -1,0 +1,3 @@
+/Users/ahmad/CLionProjects/SortingVisualizer/cmake-build-debug/CMakeFiles/SortingVisualizer.dir
+/Users/ahmad/CLionProjects/SortingVisualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahmad/CLionProjects/SortingVisualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
