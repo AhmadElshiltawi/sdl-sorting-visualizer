@@ -21,7 +21,7 @@ The purpose of this project is to visualize commonly used sorting algorithms usi
 
 # Installation
 
-The project was created using IntelliJ's Clion which uses CMake. Preferably downlaod and run the project using CLion. Otherwise, Go to the following directory `cmake-build-debug/bin` and then run the executable.
+The project was created using IntelliJ's Clion which uses CMake. Preferably download and run the project using CLion. Otherwise, Go to the following directory `cmake-build-debug/bin` and then run the executable.
 
 Downloading [SDL2](https://www.libsdl.org) is required.
 
